@@ -25,6 +25,7 @@ All monetary values are expressed in Dominican Pesos (DOP). No currency conversi
 - Standardized date formats
 - Converted numerical values correctly
 - Corrected percentage calculations (used averages instead of sums)
+
 Note: Customer and Salesperson data were excluded due to lack of variability in the dataset.
 
 ---
