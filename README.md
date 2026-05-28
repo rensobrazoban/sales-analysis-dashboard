@@ -1,4 +1,4 @@
-# 📊 Sales & Profitability Analysis Dashboard
+# 📊 Sales & Profitability Analysis (Excel Dashboard Project)
 
 ## 📌 Project Overview
 This project analyzes sales and profitability data extracted from an ERP system. The goal is to identify key revenue drivers, evaluate product performance, and generate actionable business insights.
@@ -20,11 +20,12 @@ All monetary values are expressed in Dominican Pesos (DOP). No currency conversi
 ---
 
 ## 🧹 Data Cleaning
-- Removed unnecessary columns (Customer, Salesperson)
+- Removed unnecessary columns (Customer, Salesperson): 
 - Eliminated empty rows
 - Standardized date formats
 - Converted numerical values correctly
 - Corrected percentage calculations (used averages instead of sums)
+Note: Customer and Salesperson data were excluded due to lack of variability in the dataset.
 
 ---
 
@@ -42,7 +43,7 @@ All monetary values are expressed in Dominican Pesos (DOP). No currency conversi
 
 ## 📈 Dashboard
 
-[PASTE_IMAGE_HERE](https://github.com/rensobrazoban/sales-analysis-dashboard/blob/main/dashboard%201.png)
+https://raw.githubusercontent.com/rensobrazoban/sales-analysis-dashboard/main/dashboard.png
 
 ---
 
@@ -50,13 +51,19 @@ All monetary values are expressed in Dominican Pesos (DOP). No currency conversi
 
 - The top 10 products generate a significant portion of total revenue, indicating reliance on key items.
 
-- Most products show stable profit margins between 20%–30%, suggesting consistent pricing strategies.
+- Most products maintain consistent profit margins around 20%–30%, indicating a standardized pricing approach across the business.
 
 - Profitability varies across products, highlighting opportunities to prioritize high-margin items.
 
 - Some products show lower margins, indicating potential inefficiencies in pricing or cost structure.
 
 - Revenue distribution is uneven, with a small group of products generating most of the income.
+
+---
+
+## 💼 Business Value
+
+This analysis helps identify key revenue drivers, evaluate pricing efficiency, and support data-driven decision-making for inventory and sales strategy optimization.
 
 ---
     
