@@ -43,9 +43,7 @@ Note: Customer and Salesperson data were excluded due to lack of variability in 
 
 ## 📈 Dashboard
 
-## 📈 Dashboard
-
-![Dashboard](dashboard 1.png)
+![Dashboard](dashboard1.png)
 
 ---
 
