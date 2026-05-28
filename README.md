@@ -43,7 +43,9 @@ Note: Customer and Salesperson data were excluded due to lack of variability in 
 
 ## 📈 Dashboard
 
-https://raw.githubusercontent.com/rensobrazoban/sales-analysis-dashboard/main/dashboard.png
+## 📈 Dashboard
+
+![Dashboard](dashboard 1.png)
 
 ---
 
