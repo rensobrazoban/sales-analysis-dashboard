@@ -16,8 +16,7 @@ This project analyzes sales and profitability data extracted from an ERP system.
   - Profit
   - Profit Margin (%)
 
-All financial values are expressed in Dominican Pesos (DOP).
-
+All monetary values are expressed in Dominican Pesos (DOP). No currency conversion was applied.
 ---
 
 ## 🧹 Data Cleaning
@@ -43,7 +42,7 @@ All financial values are expressed in Dominican Pesos (DOP).
 
 ## 📈 Dashboard
 
-PASTE_IMAGE_HERE
+[PASTE_IMAGE_HERE](https://github.com/rensobrazoban/sales-analysis-dashboard/blob/main/dashboard%201.png)
 
 ---
 
